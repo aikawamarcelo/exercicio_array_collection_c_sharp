@@ -1,0 +1,20 @@
+
+
+Array
+
+tipo[] A = new Tipo[3]; [2] [5] [6]
+                                                         0   1   2
+                                          A[0] = 2
+                                          A[1] = 5
+                                          A[2] = 6
+
+No array pode-se usar o A.Length
+
+
+Collection
+
+Usa a quantidade de espaço que você quer
+
+Tem muitas informações
+
+List<tipo> A = new List<tipo>();
